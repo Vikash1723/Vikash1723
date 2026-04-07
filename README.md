@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Vikash M</h1>
+<h1 align="center">Hi, I'm Vikash M</h1>
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
@@ -13,87 +13,88 @@
 
 ---
 
-## ✅ What I've Completed
+## What I've Completed
 
 | Course | Status |
 |--------|--------|
-| **Java Full Stack Development** | ✅ Completed |
-| **MERN Stack Development** | ✅ Certified |
-| **Wipro Data Security Program** | ✅ Completed |
-| **Prompt Engineering** | ✅ Certified |
+| Java Full Stack Development | Completed |
+| MERN Stack Development | Certified |
+| Wipro Data Security Program | Completed |
+| Prompt Engineering | Certified |
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 **B.Tech in IT** – Anna University | CGPA: 7.5/10
-- ☕ **Full Stack Developer** skilled in Java, Spring Boot, React.js, Node.js, MongoDB, MySQL
-- 🔐 **Cybersecurity trained** – Data Protection, DLP, DevSecOps, Linux Administration
-- 🌱 Currently exploring **Cloud Computing (AWS)** & **Unreal Engine**
-- 📫 Reach me: **vika.mich.08@gmail.com**
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1n94UglBi52xUGAzOEMXR14CXOckfm2JD/view?usp=sharing)
+- B.Tech in IT – Anna University | CGPA: 7.5/10
+- Full Stack Developer skilled in Java, Spring Boot, React.js, Node.js, MongoDB, MySQL
+- Cybersecurity trained – Data Protection, DLP, DevSecOps, Linux Administration
+- Currently exploring Cloud Computing (AWS) & Unreal Engine
+- Reach me: **vika.mich.08@gmail.com**
+- Resume: [View Here](https://drive.google.com/file/d/1n94UglBi52xUGAzOEMXR14CXOckfm2JD/view?usp=sharing)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### 🔬 AI Diagnostic Tool – Diabetic Nephropathy Detection
-
-
-| Aspect | Details |
-|--------|---------|
-| **Tech** | Python, Flask, PyTorch, ViT, XGBoost, SHAP, LIME |
-| **Features** | Real-time prediction, PDF reports, Explainable AI |
-| **Impact** | Medical decision support system |
-
-### 🛒 Full-Stack E-Commerce Platform
-> *Internship Project at Technocrates*
+### AI Diagnostic Tool – Diabetic Nephropathy Detection
+*Final Year Project*
 
 | Aspect | Details |
 |--------|---------|
-| **Tech** | Java, Spring Boot, React.js, MySQL |
-| **Features** | User auth, Product management, Shopping cart, Secure payments |
+| Tech | Python, Flask, PyTorch, ViT, XGBoost, SHAP, LIME |
+| Features | Real-time prediction, PDF reports, Explainable AI |
+| Impact | Medical decision support system |
+
+### Full-Stack E-Commerce Platform
+*Internship Project at Technocrates*
+
+| Aspect | Details |
+|--------|---------|
+| Tech | Java, Spring Boot, React.js, MySQL |
+| Features | User auth, Product management, Shopping cart, Secure payments |
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 | Award | Recognition |
 |-------|-------------|
-| 🥇 **First Prize** | Science Day Project Expo |
-| 🎖️ **Best Organizer** | National Cadet Corps (NCC) |
-| 📜 **Certifications** | Java, MERN, Prompt Engineering, NCC |
+| First Prize | Science Day Project Expo |
+| Best Organizer | National Cadet Corps (NCC) |
+| Certifications | Java, MERN, Prompt Engineering, NCC |
 
 ---
 
-## 🔗 Let's Connect
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/vikash-michael03">
